@@ -4,7 +4,8 @@
 
 ```scala
 hInfo = new DefaultArchiveParser("<path to archive dir>") with ArchiveSettings
-hInfo.parse()```
+hInfo.parse()
+```
 
 ## Default Archive Structure
 
