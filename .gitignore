@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+.idea
+*.iml
+out
+gen
+### SBT template
+dist/*
+target
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+testdata
