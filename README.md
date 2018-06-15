@@ -2,7 +2,8 @@
 
 ## Usage
 
-```hInfo = new DefaultArchiveParser("<path to archive dir>") with ArchiveSettings
+```scala
+hInfo = new DefaultArchiveParser("<path to archive dir>") with ArchiveSettings
 hInfo.parse()```
 
 ## Default Archive Structure
